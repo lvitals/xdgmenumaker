@@ -1,6 +1,10 @@
 Installation
 ============
 
+Install the Dependencies:
+
+    apt install txt2tags python-xdg python-gobject python-gobject-2-dev gobject-introspection
+
 To install, just run:
 
     make
